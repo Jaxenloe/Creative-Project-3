@@ -34,12 +34,13 @@
 
     <div id="menu">
       <div class ="announcement"> 
-        <h4>2020-11-07 ~</h4>
-        <h4>2020-11-16</h4>
+        <h4>11/28/21 ~</h4>
+        <h4>11/30/21</h4>
       </div>
       <div class ="announcement">
-        <h3>Black Friday Big Event</h3>
-        <p>Most Popular Brand: Adidas, Monster</p>
+        <h3>Black Friday flash sale</h3>
+        <p>Get the best deals here!</p>
+        <router-link class="nav-link product" to="/product.html">click here for our products!</router-link>
       </div>
       <div id="cart">
         <router-link to="/cart">
@@ -55,24 +56,16 @@
     <footer class="page-footer font-small blue-grey lighten-5">
 
         <div class="bottom py-4 d-flex align-items-center flex-wrap justify-content-around align-content-between" style="color:white;">
+
           <div class="class">
-            <h6 class="text-center mb-0">Jungjin Cho</h6>
-          </div>
-          <div class="class">
-            <h6 class="text-center mb-0">Jongwoo Lim</h6>
-          </div>
-          <div class="class">
-            <h6 class="text-center mb-0">Jeonghaeng Heo</h6>
-          </div>
-          <div class="class">
-            <h6 class="text-center mb-0">Kangsan Park</h6>
+            <a href="https://github.com/Jaxenloe/Creative-Project-3.git">Click here for my git hub!</a>
           </div>
           <div class="social" style="color:white;">
             <a class="git-ic mr-3" role="button" href="https://github.com/jwlim94/Creative-Project.git"><i class="fab fa-lg fa-github"></i></a>
           </div>
         </div>
-        <div class="footer-copyright text-center mx-auto text-black-50 py-3">&#169; 2020 Copyright:
-          <a class="dark-grey-text" href="/">Include</a>
+        <div class="footer-copyright text-center mx-auto text-black-50 py-3">            <a href="https://github.com/Jaxenloe/Creative-Project-3.git">Click here for my git hub!</a>
+
         </div>
     </footer>
 

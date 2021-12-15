@@ -48,7 +48,7 @@ let mock = [{
   },
   {
     id: 7,
-    name: "Band",
+    name: "Bands",
     description: "MLB head band/wrist band/variety of colors",
     type: "clothing",
     price: "$7.99",
@@ -64,7 +64,7 @@ let mock = [{
   },
   {
     id: 9,
-    name: "Men Shorts",
+    name: "Mens Shorts",
     description: "running shorts/workout shorts/mono ton",
     type: "clothing",
     price: "$11.99",
@@ -72,7 +72,7 @@ let mock = [{
   },
   {
     id: 10,
-    name: "Women shorts",
+    name: "Womens shorts",
     description: "tight/inner shorts/running shorts",
     type: "clothing",
     price: "$17.99",
@@ -112,7 +112,7 @@ let mock = [{
   },
   {
     id: 15,
-    name: "Healthy Nutrients",
+    name: "Supplements",
     description: "zinc + copper/relaxing for muscle to grow",
     type: "dietary",
     price: "$15.99",
